@@ -1,6 +1,6 @@
 console.log("h!");
 
-function greetName(name = "anon") {
+export function greetName(name = "anon") {
   if (name) {
     console.log(name);
   }
