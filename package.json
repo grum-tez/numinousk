@@ -1,8 +1,7 @@
 {
   "name": "numinousk",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "main": "lib/index.js",
-  "types": "lib/index.d.ts",
   "author": "Grum",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.56.0",
