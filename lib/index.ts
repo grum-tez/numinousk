@@ -1,11 +1,9 @@
 console.log("h!");
 
-export function greetName(name = "anon") {
+export function greetName(name: string) {
   if (name) {
     console.log(name);
   }
 }
-
-greetName("grum");
 
 export const hello = "worlds";
